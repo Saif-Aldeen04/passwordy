@@ -20,7 +20,7 @@ Follow these steps to set up **Passwordy** on your Linux system:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Saif-Aldeen04/passwordy.git](https://github.com/Saif-Aldeen04/passwordy.git)
+git clone https://github.com/Saif-Aldeen04/passwordy.git
 cd passwordy
 ```
 
